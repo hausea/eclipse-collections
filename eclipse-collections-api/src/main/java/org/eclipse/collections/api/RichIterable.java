@@ -7,6 +7,8 @@
  * and the Eclipse Distribution License is available at
  * http://www.eclipse.org/org/documents/edl-v10.php.
  */
+test line 1
+line2
 
 package org.eclipse.collections.api;
 
