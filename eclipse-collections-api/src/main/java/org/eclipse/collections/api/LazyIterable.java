@@ -1,3 +1,6 @@
+test
+with
+newline
 /*
  * Copyright (c) 2016 Goldman Sachs.
  * All rights reserved. This program and the accompanying materials
