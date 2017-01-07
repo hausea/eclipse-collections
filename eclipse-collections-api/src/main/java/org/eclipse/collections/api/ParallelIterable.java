@@ -1,3 +1,6 @@
+new
+line
+windows endings
 /*
  * Copyright (c) 2015 Goldman Sachs.
  * All rights reserved. This program and the accompanying materials
